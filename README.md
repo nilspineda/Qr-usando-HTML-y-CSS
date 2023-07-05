@@ -10,8 +10,4 @@ Thanks for checking out this front-end coding challenge.
 ----
 
 Repo [GitHub](https://github.com/nilspineda/Qr-usando-HTML-y-CSS.git). Creating a repo will make it easier to share your code with the 
-Preview [Demo](#)
-----
-## Deploying project
-
-- [GitHub Pages](https://pages.github.com/)
+Preview [Demo](https://nilspineda.github.io/Qr-usando-HTML-y-CSS.github.io)
