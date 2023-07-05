@@ -9,24 +9,18 @@ The designs were created to the following widths:
 
 ## Colors
 
-### Primary
-
-Very Dark Magenta: hsl(300, 43%, 22%)
-Soft Pink: hsl(333, 80%, 67%)
-
-### Neutral
-
-Dark Grayish Magenta: hsl(303, 10%, 53%)
-Light Grayish Magenta: hsl(300, 24%, 96%)
-White: hsl(0, 0%, 100%)
+- White: hsl(0, 0%, 100%)
+- Light gray: hsl(212, 45%, 89%)
+- Grayish blue: hsl(220, 15%, 55%)
+- Dark blue: hsl(218, 44%, 22%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size: 15px
+- Font size (paragraph): 15px
 
 ### Font
 
-- Family: [League Spartan](https://fonts.google.com/specimen/League+Spartan)
-- Weights: 400, 500, 700
+- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
+- Weights: 400, 700
